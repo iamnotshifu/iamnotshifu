@@ -1,15 +1,15 @@
 <div align="center">
-  <h1>Shifu-Nfor Nyuiring-yoh Rhagninyui</h1>
-  <p>📍 Lagos, Nigeria | Software Engineer | Tech Founder @ NforShifu234 Dev | Content Creator | Digital Builder</p>
+  <h1>Nyuiring-yoh Rhagninyui Shifu-Nfor</h1>
+  <p>📍 Lagos, Nigeria | Software Engineer | Tech Founder @ NFORSHIFU234 Dev | Content Creator | Digital Builder</p>
 </div>
 
 <div align="center">
   <a href="https://wakatime.com/@nforshifu234dev"><img src="https://wakatime.com/badge/user/018d0a3b-4139-453c-b5c4-7a01d53a2015.svg?style=flat" alt="WakaTime"></a>
-  <a href="https://github.com/nforshifu234"><img src="https://img.shields.io/github/followers/nforshifu234dev?logo=github&style=flat" alt="GitHub Followers"></a>
-  <a href="https://x.com/nforshifu_234"><img src="https://img.shields.io/twitter/follow/nforshifu_234?style=flat&logo=X" alt="X"></a>
-  <a href="https://www.linkedin.com/in/nforshifu234"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.tiktok.com/@nforshifu234"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" alt="TikTok"></a>
-  <a href="https://www.facebook.com/nforshifu.234"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://github.com/iamnotshifu"><img src="https://img.shields.io/github/followers/nforshifu234dev?logo=github&style=flat" alt="GitHub Followers"></a>
+  <a href="https://x.com/iamnot_shifu"><img src="https://img.shields.io/twitter/follow/nforshifu_234?style=flat&logo=X" alt="X"></a>
+  <a href="https://www.linkedin.com/in/iamnotshifu"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.tiktok.com/@iamnot_shifu"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://www.facebook.com/iamnotshifu"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook"></a>
 </div>
 
 ---
@@ -17,8 +17,8 @@
 ## 🚀 About Me
 
 - 👨🏾‍💻 Full-stack developer with 5+ years of building real-world digital products.
-- 🧠 Founder of [**NforShifu234 Dev**](https://nforshifu234dev.vercel.app) — a brand focused on dev tools, websites, and automation solutions.
-- 🧩 Building [**WishIT**](https://wish-it.app) — a platform for personalized digital wishes.
+- 🧠 Founder of [**NFORSHIFU234 Dev**](https://www.nforshifu234dev.com) — a brand focused on dev tools, websites, and automation solutions.
+- 🧩 Building [**WishIT**](https://wish-it.app) — a platform for personalised digital wishes (WishDrops).
 - 📹 Creating consistent content around code, systems, business, and digital strategy.
 - ⚙️ Always exploring: AI, Automation, IoT, and startup culture.
 - 💼 Currently balancing school, business, and a remote job — CEO in the making fr.
@@ -44,10 +44,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nforshifu234&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamnotshifu&show_icons=true&theme=radical" width="400"/>
   <img src="https://streak-stats.demolab.com/?user=nforshifu234&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nforshifu234&layout=compact&theme=radical" width="400"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nforshifu234&theme=radical" width="800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotshifu&layout=compact&theme=radical" width="400"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnotshifu&theme=radical" width="800"/>
 </div>
 
 ---
@@ -64,12 +64,12 @@
 
 ## 🌐 Connect With Me
 
-- 🌍 Portfolio: [iamshifu.vercel.app](https://iamshifu.vercel.app)
-- 📷 Instagram: [@nfor.shifu](https://www.instagram.com/nforshifu_234/)
-- 🐦 X (Twitter): [@nforshifu_234](https://x.com/nforshifu_234)
-- 💼 LinkedIn: [Shifu-Nfor Nyuiring-yoh Rhagninyui](https://www.linkedin.com/in/nforshifu234)
-- 🖤 TikTok: [@nforshifu234](https://www.tiktok.com/@nforshifu234)
-- 📘 Facebook: [nforshifu.234](https://facebook.com/nforshifu.234)
+- 🌍 Portfolio: [iamnotshifu.vercel.app](https://iamnotshifu.vercel.app)
+- 📷 Instagram: [@iamnot_shifu](https://www.instagram.com/iamnot_shifu/)
+- 🐦 X (Twitter): [@nforshifu_234](https://x.com/iamnot_shifu)
+- 💼 LinkedIn: [Nyuiring-yoh R. Shifu-Nfor](https://www.linkedin.com/in/iamnotshifu)
+- 🖤 TikTok: [@nforshifu234](https://www.tiktok.com/@iamnot_shifu)
+- 📘 Facebook: [nforshifu.234](https://facebook.com/iamnotshifu)
 - 📫 Email: work.nforshifu[at]gmail.com
 
 ---
