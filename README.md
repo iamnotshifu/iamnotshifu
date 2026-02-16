@@ -45,7 +45,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamnotshifu&show_icons=true&theme=radical" width="400"/>
-  <img src="https://streak-stats.demolab.com/?user=nforshifu234&theme=radical" width="400"/>
+  <img src="https://streak-stats.demolab.com/?user=iamnotshifu&theme=radical" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamnotshifu&layout=compact&theme=radical" width="400"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamnotshifu&theme=radical" width="800"/>
 </div>
@@ -65,6 +65,7 @@
 ## 🌐 Connect With Me
 
 - 🌍 Portfolio: [iamnotshifu.vercel.app](https://iamnotshifu.vercel.app)
+- 📹 YouTube: [@nforshifu234](https://www.youtube.com/@iamnot_shifu)
 - 📷 Instagram: [@iamnot_shifu](https://www.instagram.com/iamnot_shifu/)
 - 🐦 X (Twitter): [@nforshifu_234](https://x.com/iamnot_shifu)
 - 💼 LinkedIn: [Nyuiring-yoh R. Shifu-Nfor](https://www.linkedin.com/in/iamnotshifu)
