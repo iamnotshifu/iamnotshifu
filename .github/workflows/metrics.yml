@@ -31,3 +31,4 @@ jobs:
           output_action: commit
           committer_message: "chore: update metrics"
           filename: profile/metrics.svg
+          debug: yes
