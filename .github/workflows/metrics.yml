@@ -24,11 +24,9 @@ jobs:
           plugin_habits: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          plugin_stars: yes
-          plugin_stars_limit: 6
           plugin_wakatime: yes
           plugin_wakatime_sections: languages
-          plugin_wakatime_user: iamnotshifu
+          plugin_wakatime_api_key: ${{ secrets.WAKATIME_API_KEY }}
           config_timezone: Africa/Lagos
           output_action: commit
           committer_message: "chore: update metrics"
