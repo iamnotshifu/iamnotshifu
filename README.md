@@ -106,6 +106,11 @@ Launched together on **NFSFU234 Open Source Day**:
 ## ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I Haven’t Written Here in a While. Here’s What Has Been Happening.](https://www.iamnotshifu.com/blog/i-havent-written-here-in-a-while-heres-what-has-been-happening)
+- [365 Days of WishIT: What Building It Taught Me](https://www.iamnotshifu.com/blog/365-days-of-wishit-what-building-it-taught-me)
+- [You Tested. We Listened. WishIT Changed.](https://www.iamnotshifu.com/blog/you-tested-we-listened-wishit-changed)
+- [I Tweeted an idea at 10pm. It Was Live 40 Hours Later](https://www.iamnotshifu.com/blog/i-tweeted-an-idea-at-10pm-it-was-live-40-hours-later)
+- [From &quot;Mbut Man&quot; to Building a Tech Company in Lagos](https://www.iamnotshifu.com/blog/from-mbut-man-to-building-a-tech-company-in-lagos)
 <!-- BLOG-POST-LIST:END -->
 
 *More at [iamnotshifu.com/blog →](https://www.iamnotshifu.com/blog)*
